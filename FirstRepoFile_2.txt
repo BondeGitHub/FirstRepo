@@ -1,1 +1,2 @@
 Linie1 i Fil2
+Linie2 tilføjet i Notepad++ lokalt
